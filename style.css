@@ -1,0 +1,36 @@
+.welcome-text {
+  color: red;
+  font-size: 20px;
+  text-transform: uppercase;
+  margin-bottom: 40px;
+}
+form {
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+}
+.form-top {
+  display: flex;
+  justify-content: space-between;
+}
+fieldset {
+  padding: 50px;
+  border: 2px solid #f7cf1f;
+}
+legend {
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #f7cf1f;
+}
+h2 {
+  font-size: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #f7cf1f;
+  border: none;
+  margin-top: 50px;
+  color: white;
+}
